@@ -1,0 +1,9 @@
+com\escuela\entities\TipoMotocicleta.class
+com\escuela\main\Main.class
+com\escuela\controllers\TipoMotocicletaJpaController.class
+com\escuela\entities\Proveedor.class
+com\escuela\controllers\ServicioTecnicoJpaController.class
+com\escuela\entities\Motocicleta.class
+com\escuela\controllers\MotocicletaJpaController.class
+com\escuela\controllers\ProveedorJpaController.class
+com\escuela\entities\ServicioTecnico.class
