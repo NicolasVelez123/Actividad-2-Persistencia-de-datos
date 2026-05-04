@@ -5,6 +5,7 @@ Descripción General
 El sistema centraliza la información de motocicletas, proveedores y servicios técnicos. Permite realizar operaciones de registro, consulta, actualización y eliminación de datos (CRUD), asegurando que cada servicio técnico esté correctamente vinculado a una unidad de inventario y cada unidad a un proveedor específico.
 
 Tecnologías Utilizadas
+      
       Lenguaje de Programación: Java (JDK 17 o superior).
 
       Gestión de Persistencia: Jakarta Persistence API (JPA) con EclipseLink.
@@ -16,6 +17,7 @@ Tecnologías Utilizadas
       Entorno de Desarrollo: NetBeans IDE.
 
 Estructura del Proyecto
+      
       src/main/java: Contiene el código fuente organizado en paquetes de entidades y controladores JPA.
 
       src/main/resources/META-INF/persistence.xml: Archivo de configuración para la conexión a la base de datos.
@@ -25,6 +27,7 @@ Estructura del Proyecto
       pom.xml: Configuración de Maven y dependencias del proyecto.
 
 Requisitos Previos
+      
       Tener instalado el JDK 17 o versión superior.
 
       Contar con un servidor de PostgreSQL activo.
